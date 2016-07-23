@@ -1,0 +1,36 @@
+﻿Build started 12/26/2014 3:32:11 AM.
+     1>Project "C:\Users\Ali J\Documents\Visual Studio 2010\Projects\hanoi ++\hanoi ++\hanoi ++.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\hanoi ++.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 1.cpp
+         1.cpp
+     1>c:\users\ali j\documents\visual studio 2010\projects\hanoi ++\hanoi ++\1.cpp(43): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\ali j\documents\visual studio 2010\projects\hanoi ++\hanoi ++\1.cpp(36): warning C4101: 'col' : unreferenced local variable
+     1>c:\users\ali j\documents\visual studio 2010\projects\hanoi ++\hanoi ++\1.cpp(36): warning C4101: 'row' : unreferenced local variable
+     1>c:\users\ali j\documents\visual studio 2010\projects\hanoi ++\hanoi ++\1.cpp(36): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\ali j\documents\visual studio 2010\projects\hanoi ++\hanoi ++\1.cpp(237): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\ali j\documents\visual studio 2010\projects\hanoi ++\hanoi ++\1.cpp(245): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\ali j\documents\visual studio 2010\projects\hanoi ++\hanoi ++\1.cpp(269): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\ali j\documents\visual studio 2010\projects\hanoi ++\hanoi ++\1.cpp(336): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\ali j\documents\visual studio 2010\projects\hanoi ++\hanoi ++\1.cpp(366): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ali J\Documents\Visual Studio 2010\Projects\hanoi ++\Debug\hanoi ++.exe" /NOLOGO winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hanoi ++.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ali J\Documents\Visual Studio 2010\Projects\hanoi ++\Debug\hanoi ++.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ali J\Documents\Visual Studio 2010\Projects\hanoi ++\Debug\hanoi ++.lib" /MACHINE:X86 Debug\1.obj
+         LINK : C:\Users\Ali J\Documents\Visual Studio 2010\Projects\hanoi ++\Debug\hanoi ++.exe not found or not built by the last incremental link; performing full link
+         hanoi ++.vcxproj -> C:\Users\Ali J\Documents\Visual Studio 2010\Projects\hanoi ++\Debug\hanoi ++.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Ali J\Documents\Visual Studio 2010\Projects\hanoi ++\Debug\hanoi ++.exe;#1" /manifest "Debug\hanoi ++.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\hanoi ++.unsuccessfulbuild".
+         Touching "Debug\hanoi ++.lastbuildstate".
+     1>Done Building Project "C:\Users\Ali J\Documents\Visual Studio 2010\Projects\hanoi ++\hanoi ++\hanoi ++.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.38
